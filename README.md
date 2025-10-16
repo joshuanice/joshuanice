@@ -6,6 +6,14 @@
 
 ---
 
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="350" alt="Coding GIF" />
+</div>
+
+---
+
+---
+
 ## 🧠 About Me
 - 🔭 Currently working on **Swift Email Verifier** as personal project
 - 🌱 Advance Learning **Next.js 15, Supabase, Clerk, MCP, Node and Authentications**
@@ -49,12 +57,11 @@
 
 ---
 
-## 📊 GitHub Stats
+<div align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Developer at work" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoshuaPenamante&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaPenamante&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
-</p>
+---
 
 ---
 
