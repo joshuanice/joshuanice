@@ -7,10 +7,8 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" height="350" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="850" height="290" alt="Coding GIF" />
 </div>
-
----
 
 ---
 
@@ -57,19 +55,11 @@
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300" alt="Developer at work" />
-</div>
-
----
-
----
-
 ## 🌐 Connect with Me  
 <p align="left">
   <a href="https://swiftverifier.cloud"><img src="https://img.shields.io/badge/🌍_Website-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://linkedin.com/in/joshuapenamante"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:hello@swiftverifier.cloud"><img src="https://img.shields.io/badge/Email-hello@swiftverifier.cloud-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:hello@swiftverifier.cloud"><img src="https://img.shields.io/badge/Email-joshuapenamante0209@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
