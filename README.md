@@ -7,11 +7,11 @@
 ---
 
 ## 🧠 About Me
-- 🔭 Currently working on **Swift Email Verifier**
-- 🌱 Learning **Next.js 15, Supabase, Clerk, and Windsurf**
+- 🔭 Currently working on **Swift Email Verifier** as personal project
+- 🌱 Advance Learning **Next.js 15, Supabase, Clerk, MCP, Node and Authentications**
 - ⚙️ Focused on **automation, clean architecture, and cloud-native development**
 - 💬 Ask me about **React, Node.js, APIs, or building SaaS**
-- ✉️ Reach me at **hello@swiftverifier.cloud**
+- ✉️ Reach me at **joshuapenamante0209@gmail.com**
 
 ---
 
@@ -33,7 +33,6 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
 </p>
@@ -53,8 +52,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JoshuaPenamante&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaPenamante&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JoshuaPenamante&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuaPenamante&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
 </p>
 
 ---
@@ -70,4 +69,3 @@
 
 💬 *“Build. Verify. Scale.”*  
 > ⚡ *Turning ideas into reliable digital experiences.*
-
