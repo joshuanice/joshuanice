@@ -7,7 +7,7 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="850" height="290" alt="Coding GIF" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="850" height="390" alt="Coding GIF" />
 </div>
 
 ---
