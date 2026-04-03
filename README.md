@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Joshua Peñamante
 
-📱 React Native Developer building cross-platform mobile experiences
+🚀 Full-stack web & mobile developer delivering scalable cross-platform solutions.
+
 💡 Passionate about **AI, web development, and scalable SaaS products.**  
+
 🏸 Also a badminton enthusiast — midweek reset & game time!
 
 ---
