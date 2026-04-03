@@ -15,7 +15,7 @@
 ## 🧠 About Me
 - 🌱 Advance Learning Next.js 15, Supabase, Clerk, MCP, Node, Authentications, and Azure Cloud
 - ⚙️ Focused on **automation, clean architecture, and cloud-native development**
-- 📱 Building mobile apps using React Native (Expo & production builds)
+- 📱 Building scalable mobile and web applications with a focus on performance and user experience.
 - 💬 Ask me about React, React Native, Node.js, APIs, SaaS, and DevOps workflows
 - ✉️ Reach me at **joshuapenamante0209@gmail.com**
 
