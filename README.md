@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Joshua Peñamante
 
-🚀 **Founder at [Swift Verifier](https://swiftverifier.cloud)** — building smart email verification tools for faster, cleaner, and safer communication.  
+📱 React Native Developer building cross-platform mobile experiences
 💡 Passionate about **AI, web development, and scalable SaaS products.**  
 🏸 Also a badminton enthusiast — midweek reset & game time!
 
@@ -13,10 +13,10 @@
 ---
 
 ## 🧠 About Me
-- 🔭 Currently working on **Swift Email Verifier** as personal project
-- 🌱 Advance Learning **Next.js 15, Supabase, Clerk, MCP, Node and Authentications**
+- 🌱 Advance Learning Next.js 15, Supabase, Clerk, MCP, Node, Authentications, and Azure Cloud
 - ⚙️ Focused on **automation, clean architecture, and cloud-native development**
-- 💬 Ask me about **React, Node.js, APIs, or building SaaS**
+- 📱 Building mobile apps using React Native (Expo & production builds)
+- 💬 Ask me about React, React Native, Node.js, APIs, SaaS, and DevOps workflows
 - ✉️ Reach me at **joshuapenamante0209@gmail.com**
 
 ---
@@ -41,6 +41,11 @@
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_App_Service-008272?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
 ### 🔐 Authentication & Tools
@@ -51,9 +56,17 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_AI-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
 ---
+
+🚀 DevOps & Workflow Focus
+- ⚡ Automated CI/CD pipelines (build, test, deploy)
+- 🔁 Git-based workflows (feature → staging → production)
+- ☁️ Cloud deployments using Azure & Vercel
+- 📦 Monorepo & modular architecture for scalability
+- 🔍 Performance monitoring & logging strategies
 
 ## 🌐 Connect with Me  
 <p align="left">
