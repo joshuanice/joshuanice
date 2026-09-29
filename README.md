@@ -74,7 +74,7 @@
 
 ## 🌐 Connect with Me  
 <p align="left">
-  <a href="https://swiftverifier.cloud"><img src="https://img.shields.io/badge/🌍_Website-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://joshuapenamante.netlify.app/"><img src="https://img.shields.io/badge/🌍_Website-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://linkedin.com/in/joshuapenamante"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:hello@swiftverifier.cloud"><img src="https://img.shields.io/badge/Email-joshuapenamante0209@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
